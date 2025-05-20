@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# Logs
+logs/
+*.log
+
+# Docker
+*.pid
+
+# Editor
+.vscode/
+.idea/
+
+# Build
+build/
+dist/
