@@ -99,5 +99,6 @@ NEWS_API_KEY
 
  Deploy gratuito (Render, Vercel etc.)
 
+
 👨‍💻 Autor
 Desenvolvido por Micael (@ADev_HD) — apaixonado por TI, migrando da área de suporte para o desenvolvimento web com foco em back-end.
